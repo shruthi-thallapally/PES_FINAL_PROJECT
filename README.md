@@ -26,6 +26,7 @@ This project demonstrates how to interface the GY-BMP280 sensor with the FRDM-KL
 - `cmd_process.h` & `cmd_process.c`: User Interface to read temperature when user enters “TEMP” and pressure when user enters “PRESSURE”
 - `sysclock.h` & `sysclock.c`: Initializes the system clock.
 - `uart0.h` & `uart0.c`: Contains UART specific configurations and functions to print values on the terminal.
-
+## VIDEO LINK
+https://drive.google.com/file/d/1S4OjZmREBJwVHSurUdjan59-l5wqRxu4/view?usp=drive_link
 ## Acknowledgements
 Took reference from the BMP280 datasheet for calibration and measurement of temperature and pressure. Referred to the Dean’s code for I2C protocol implementation.
