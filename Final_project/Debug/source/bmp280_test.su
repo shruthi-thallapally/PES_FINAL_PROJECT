@@ -1,0 +1,2 @@
+../source/bmp280_test.c:17:6:test_data_accuracy_temp	16	static
+../source/bmp280_test.c:35:6:test_data_accuracy_press	16	static

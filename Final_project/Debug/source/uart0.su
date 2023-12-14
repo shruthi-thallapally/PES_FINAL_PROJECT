@@ -1,0 +1,4 @@
+c:\nxp\mcuxpressoide_11.8.0_1165\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047\tools\redlib\include\sys\libconfig-arm.h:241:5:__sys_readc	16	static
+c:\nxp\mcuxpressoide_11.8.0_1165\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047\tools\redlib\include\sys\libconfig-arm.h:247:5:__sys_write	32	static
+../source/uart0.c:70:6:init_UART0	16	static
+../source/uart0.c:128:6:UART0_IRQHandler	16	static

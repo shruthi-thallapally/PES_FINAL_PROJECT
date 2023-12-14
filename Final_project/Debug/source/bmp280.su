@@ -1,0 +1,2 @@
+../source/bmp280.c:31:6:BMP280_init	40	static
+../source/bmp280.c:65:6:BMP280_values	96	static
